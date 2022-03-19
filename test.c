@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("haha\n");
+  printf("ihaha\n");
   return 0;
 }
